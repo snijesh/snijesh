@@ -2,8 +2,8 @@
 
 ### Snijesh V P 👋 [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/snijesh/)](https://www.linkedin.com/in/snijesh/)
 
-> Learning with the challenges | Growing with the data
-
+> Unlocking Biology with Bioinformatics 
+> Learning from challenges | Evolving with data
 
 
 - 👩‍🔬 Bioinformatician | Data Scientist
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=snijesh&count_private=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snijesh&hide=TeX&layout=compact)
 
