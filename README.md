@@ -1,8 +1,7 @@
-## Hi there 👋
+### Snijesh V P 👋
 
-### Snijesh V P 👋 [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/snijesh/)](https://www.linkedin.com/in/snijesh/)
-
-> Unlocking Biology with Bioinformatics 
+> Unlocking Biology with Bioinformatics
+> 
 > Learning from challenges | Evolving with data
 
 
